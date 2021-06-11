@@ -20,7 +20,7 @@ Typescript | Node.js | GraphQL | React.js | React Native | Java
 - <a target="_blank" href="https://werlinder.me/contact.html">Email / Phone</a>
 - <a target="_blank" href="https://werlinder.me">Online Tech-Porfolio</a>
 
-#### Play one of my games:
+#### Have a try at one of my games:
 - <a href="http://foxdrop.me/games/typetosurvive/index.php">TypeToSurvive</a>
 - <a href="http://foxdrop.me/games/gobblet/index.php">Gobblet Board Game</a>
 - <a href="https://store.steampowered.com/app/1385690/Battletronics/">4-Player Battletronics</a> (Published on Steam)
