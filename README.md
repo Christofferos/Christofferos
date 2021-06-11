@@ -1,11 +1,11 @@
 ### Hi there, I'm Kristopher Werlinder!
 
-- 💻 Full Stack Engineer, currently working for <a href="#" onclick='window.open("https://curbfood.com/");return false;'>Curb Food</a>
+- 💻 Full Stack Engineer, currently working for <a target="_blank" href="https://curbfood.com/">Curb Food</a>
 - 🏡 Live in Stockholm, Sweden
 
 #### Check what I have been up to:
 
-📕 <a href="#" onclick='window.open("resume.pdf");return false;'>Resumé</a> <a target="_blank" href="resume.pdf">Resumé</a>
+📕 <a target="_blank" href="resume.pdf">Resumé</a>
 
 🏆 <a target="_blank" href="https://werlinder.me/work.html">Projects</a>
 
