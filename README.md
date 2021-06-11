@@ -1,15 +1,15 @@
 ### Hi there, I'm Kristopher Werlinder!
 
-- 💻 Full Stack Engineer, currently working for <a target="_blank" href="https://curbfood.com/">Curb Food</a>
+- 💻 Full Stack Engineer, currently working for <a href="https://curbfood.com/">Curb Food</a>
 - 🏡 Live in Stockholm, Sweden
 
 #### Check what I have been up to:
 
-📕 <a target="_blank" href="resume.pdf">Resumé</a>
+📕 <a href="resume.pdf">Resumé</a>
 
-🏆 <a target="_blank" href="https://werlinder.me/work.html">Projects</a>
+🏆 <a href="https://werlinder.me/work.html">Projects</a>
 
-🤵🏻 <a target="_blank" href="https://www.linkedin.com/in/kristopher-werlinder-a9b265192/">Linkedin</a>
+🤵🏻 <a href="https://www.linkedin.com/in/kristopher-werlinder-a9b265192/">Linkedin</a>
 
 #### Top Skills:
 
@@ -17,8 +17,8 @@ Typescript | Node.js | GraphQL | React.js | React Native | Java
 
 #### Get in touch:
 
-- <a target="_blank" href="https://werlinder.me/contact.html">Email / Phone</a>
-- <a target="_blank" href="https://werlinder.me">Online Tech-Porfolio</a>
+- <a href="https://werlinder.me/contact.html">Email / Phone</a>
+- <a href="https://werlinder.me">Online Tech-Porfolio</a>
 
 #### Have a try at one of my games:
 - <a href="http://foxdrop.me/games/typetosurvive/index.php">TypeToSurvive</a>
