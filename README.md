@@ -18,7 +18,7 @@ Typescript | Node.js | GraphQL | React.js | React Native | Java
 #### Get in touch:
 
 - <a href="https://werlinder.me/contact.html">Email / Phone</a>
-- <a href="https://werlinder.me">Online Porfolio</a>
+- <a href="https://werlinder.me">Porfolio</a>
 
 #### Have a try at one of my games:
 - <a href="http://foxdrop.me/games/typetosurvive/index.php">TypeToSurvive</a>
