@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristopher Werlinder!
 
-- 💻 Full Stack Engineer, currently working for <a href="https://curbfood.com/">Ericsson</a>
+- 💻 Full Stack Engineer, currently working for <a href="https://curbfood.com/">Curb Food</a>
 - 📖 MSc Student in Computer Science at KTH
 - 🏡 Live in Stockholm, Sweden
 
