@@ -1,7 +1,7 @@
 ### Hi there, I'm Kristopher Werlinder!
 
-- 💻 Full Stack Engineer, currently working for <a href="https://curbfood.com/">Curb Food</a>
-- 📖 MSc Student in Computer Science at KTH
+- 💻 Full Stack Engineer, currently working for <a href="https://mpyadigital.com/">Mpya Digital</a>
+- 📖 BSc in Computer Science from KTH
 - 🏡 Live in Stockholm, Sweden
 
 #### Check what I have been up to:
