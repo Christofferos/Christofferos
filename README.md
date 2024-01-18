@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristopher Werlinder!
 
-- 💻 Full Stack Engineer, currently working for <a href="https://mpyadigital.com/">Mpya Digital</a>
+- 💻 Full Stack Engineer
 - 📖 BSc in Computer Science from KTH
 - 🏡 Live in Stockholm, Sweden
 
