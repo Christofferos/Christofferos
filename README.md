@@ -8,7 +8,7 @@
 
 📕 <a href="resume.pdf">Resumé</a>
 
-🏆 <a href="https://werlinder.me/work.html">Projects</a>
+🏆 <a href="https://werlinder.me/work">Projects</a>
 
 🤵🏻 <a href="https://www.linkedin.com/in/kristopher-werlinder-a9b265192/">Linkedin</a>
 
