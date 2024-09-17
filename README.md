@@ -14,7 +14,7 @@
 
 #### Top Skills:
 
-Typescript | Node.js | GraphQL | React.js | React Native | Java
+Typescript | Node | Nest | React | React Native | Java
 
 #### Get in touch:
 
