@@ -22,10 +22,10 @@ Typescript | Node | Nest | React | React Native | Java
 - <a href="https://werlinder.me">Porfolio</a>
 
 #### Have a try at one of my games:
-- <a href="http://foxdrop.me/games/typetosurvive/index.php">TypeToSurvive</a>
-- <a href="http://foxdrop.me/games/gobblet/index.php">Gobblet Board Game</a>
+- <a href="https://christofferos.github.io/typetosurvive/">TypeToSurvive</a>
+- <a href="https://christofferos.github.io/gobblet/">Gobblet Board Game</a>
 - <a href="https://store.steampowered.com/app/1385690/Battletronics/">4-Player Battletronics</a> (Published on Steam)
-- <a href="https://mystifying-austin-efe3a7.netlify.app/">1 vs. 1 Snake Online</a>
+- <a href="https://github.com/Christofferos/Chess">Crazy Chess</a> (Published as a variant to normal Chess)
 
 <!--
 **Christofferos/Christofferos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
