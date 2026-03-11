@@ -8,7 +8,7 @@
 
 📕 <a href="resume.pdf">Resumé</a>
 
-🏆 <a href="https://werlinder.me/work">Projects</a>
+🏆 <a href="https://portfolio-git-dev-christofferos.vercel.app/work">Projects</a>
 
 🤵🏻 <a href="https://www.linkedin.com/in/%F0%9F%9F%A0-kristopher-werlinder-a9b265192/">Linkedin</a>
 
