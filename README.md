@@ -18,8 +18,8 @@ Typescript | Node | Nest | React | React Native | Java
 
 #### Get in touch:
 
-- <a href="https://werlinder.me/contact.html">Email / Phone</a>
-- <a href="https://werlinder.me">Porfolio</a>
+- <a href="https://portfolio-git-dev-christofferos.vercel.app/contact">Email / Phone</a>
+- <a href="https://portfolio-git-dev-christofferos.vercel.app">Porfolio</a>
 
 #### Have a try at one of my games:
 - <a href="https://christofferos.github.io/typetosurvive/">TypeToSurvive</a>
