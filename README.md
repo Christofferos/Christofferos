@@ -14,7 +14,7 @@
 
 #### Top Skills:
 
-Typescript | Node | Nest | React | React Native | Java
+Typescript | Node | Nest | React | React Native
 
 #### Get in touch:
 
