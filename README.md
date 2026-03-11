@@ -6,7 +6,7 @@
 
 #### Check what I have been up to:
 
-📕 <a href="resume.pdf">Resumé</a>
+📕 <a href="https://raw.githubusercontent.com/Christofferos/Christofferos/main/resume.pdf">Resumé</a>
 
 🏆 <a href="https://portfolio-git-dev-christofferos.vercel.app/work">Projects</a> (`Easter egg` - click all projects on `/work` page then see what happens on `/contact` page)
 
