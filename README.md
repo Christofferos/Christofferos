@@ -16,7 +16,7 @@
 
 Typescript | Node | Nest | React | React Native
 
-#### Top AI Project
+#### Top Projects in AI
 🤖 <a href="https://github.com/Christofferos/reinforcement-learning">See the EPIC AI project</a>
 
 <table>
